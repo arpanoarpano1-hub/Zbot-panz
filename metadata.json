@@ -1,0 +1,7 @@
+{
+  "name": "SewaBot WA - Sewa Bot WhatsApp Pairing Code Real Node.js (100+ Fitur)",
+  "description": "Platform bot WhatsApp produksi nyata Zbot afan berbasis Node.js & Baileys Multi-Device karya Afan (08216787681) 100% gratis tanpa biaya. Dilengkapi hak otoritas Super Owner untuk bebas add/del premium dan add/perpanjang sewa grup, pairing code 8 digit tanpa scan QR, serta 112+ fitur mutakhir termasuk AI Notulensi Rapat, Ghost Vault, Cyber Anti-Phishing Scanner, Transkripsi Voice Note, dan Dynamic QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
